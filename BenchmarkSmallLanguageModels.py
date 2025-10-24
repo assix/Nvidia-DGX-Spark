@@ -81,12 +81,6 @@ MODELS_TO_BENCHMARK = {
         "params_b": 3.8,
         "cutoff_date": "Oct 2023"
     },
-    # "Llama-3.1-8B": { # > 4B, kept commented out
-    #     "model_id": "meta-llama/Meta-Llama-3.1-8B-Instruct",
-    #     "owner": "Meta",
-    #     "params_b": 8.0,
-    #     "cutoff_date": "Dec 2023"
-    # },
 }
 
 # Benchmark parameters
