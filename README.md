@@ -95,13 +95,14 @@ The script will:
 
 Example Results (DGX Spark - Blackwell GPU, bfloat16)
 
-Model,Owner,Params (B),Size (GB),Tokens/sec,Peak VRAM (GB),Load Time(s),Knowledge Cutoff
-TinyLlama-1.1B,TinyLlama,1.10B,2.05,59.68,2.06,14.01,N/A
-Llama-3.2-1B,Meta,1.23B,2.32,57.49,2.32,16.98,Dec 2023
-DeepSeek-1.5B,DeepSeek AI,1.50B,3.32,46.58,3.33,22.49,July 2024
-Qwen1.5-1.8B,Alibaba,1.80B,3.44,42.98,3.51,27.69,Jan 2024
-Gemma-2B-IT,Google,2.50B,4.70,32.82,4.68,25.60,June 2024
-Phi-3-mini-4k,Microsoft,3.80B,7.12,17.34,7.18,50.38,Oct 2023
+| Model | Owner | Params (B) | Size (GB) | Tokens/sec | Peak VRAM (GB) | Load Time(s) | Knowledge Cutoff |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **TinyLlama-1.1B** | TinyLlama | 1.10B | 2.05 | **59.68** | 2.06 | 14.01 | N/A |
+| **Llama-3.2-1B** | Meta | 1.23B | 2.32 | **57.49** | 2.32 | 16.98 | Dec 2023 |
+| **DeepSeek-1.5B** | DeepSeek AI | 1.50B | 3.32 | **46.58** | 3.33 | 22.49 | July 2024 |
+| **Qwen1.5-1.8B** | Alibaba | 1.80B | 3.44 | **42.98** | 3.51 | 27.69 | Jan 2024 |
+| **Gemma-2B-IT** | Google | 2.50B | 4.70 | **32.82** | 4.68 | 25.60 | June 2024 |
+| **Phi-3-mini-4k** | Microsoft | 3.80B | 7.12 | **17.34** | 7.18 | 50.38 | Oct 2023 |
 
 🗒️ Notes
 
