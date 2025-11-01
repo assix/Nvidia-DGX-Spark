@@ -1,7 +1,3 @@
-Here is an improved version of your README.md.
-
-This revision introduces better structural separation, uses more Markdown elements like code blocks, blockquotes, and a properly formatted table for results, making the entire document more scannable and professional.
-
 🚀 Small Language Model (SLM) Benchmark
 
 This script benchmarks the performance of various small language models (under 4 billion parameters) using the Hugging Face transformers library on a CUDA-enabled GPU. It's designed to provide insights into load times, VRAM consumption, and inference speed on specific hardware.
